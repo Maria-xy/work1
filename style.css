@@ -156,10 +156,10 @@ nav {
 }
 
 .biggest .left h1{
-    font-size: 48px;
+    font-size: 36px;
     font-weight: 600;
     color: black;
-    width: 296px;
+    width: 250px;
     font-family: "Poppins", sans-serif;
 }
 
@@ -168,10 +168,10 @@ nav {
 }
 
 .biggest .right p{
-    font-size: 16px;
+    font-size: 12px;
     font-weight: 600;
     color: #6C6C6C;
-    width: 651px;
+    width: 456px;
     font-family: "Poppins", sans-serif;
 }
 
@@ -457,7 +457,7 @@ align-items: center;
     top: 0%;
 }
 .card .card_part1 .overly h2{
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 700;
     width: 232px;
     font-family: "Poppins", sans-serif;
@@ -466,13 +466,13 @@ align-items: center;
 }
 .card .card_part1 .overly a{
     background-color: rgba(255, 255, 255, 0.5);
-    font-size: 12px;
+    font-size: 11px;
     font-weight: 600;
     color: white;
     font-family: "Poppins", sans-serif;
     padding: 10px 22px;
     display: inline-block;
-    margin-top: 52px;
+    margin-top: 17px;
 }
 
 /*=============card part 2 part start==============*/
@@ -506,7 +506,7 @@ align-items: center;
     top: 0%;
 }
 .card .card_part2 .overly h2{
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 700;
     width: 232px;
     font-family: "Poppins", sans-serif;
@@ -515,13 +515,13 @@ align-items: center;
 }
 .card .card_part2 .overly a{
     background-color: rgba(255, 255, 255, 0.5);
-    font-size: 12px;
+    font-size: 11px;
     font-weight: 600;
     color: white;
     font-family: "Poppins", sans-serif;
     padding: 10px 22px;
     display: inline-block;
-    margin-top: 52px;
+    margin-top: 17px;
 }
 
 /*=============card part 3 part start==============*/
@@ -555,7 +555,7 @@ align-items: center;
     top: 0%;
 }
 .card .card_part3 .overly h2{
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 700;
     width: 232px;
     font-family: "Poppins", sans-serif;
@@ -564,13 +564,13 @@ align-items: center;
 }
 .card .card_part3 .overly a{
     background-color: rgba(255, 255, 255, 0.5);
-    font-size: 12px;
+    font-size: 11px;
     font-weight: 600;
     color: white;
     font-family: "Poppins", sans-serif;
     padding: 10px 22px;
     display: inline-block;
-    margin-top: 52px;
+    margin-top: 17px;
 }
 
 /*===========================
